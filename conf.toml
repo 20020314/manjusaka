@@ -4,7 +4,7 @@
 npsport = ":3200"
 
 #npc监听端口 上线端口
-npcport = ":80"
+npcport = "3300"
 
 #NPU后台地址
 npuaddr = "manjusaka"
